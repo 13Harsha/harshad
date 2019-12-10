@@ -9,6 +9,9 @@ public class HomeController {
     @RequestMapping("/")
     String home() {
         return "Hello from GazGeek!";
+        System.out.println("Hi Harsha");
+		System.out.println("Hi Harsha");
+        
     }
 
 }
