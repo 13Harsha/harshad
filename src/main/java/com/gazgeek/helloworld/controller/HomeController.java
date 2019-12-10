@@ -11,7 +11,7 @@ public class HomeController {
     	
     	
     	
-    	System.out.println("Hi Harsha");
+    	
 		System.out.println("Hi Harsha");
         return "Hello from GazGeek!";
         
